@@ -1,5 +1,9 @@
+//public class后面的内容必须和文件名称完全一样，包括大小写
+//public class后面的内容为一个类的名称，类是所有java源代码的基本组成单位
 public class Hello{
+    //第二行是固定写法，代表main方法，是程序执行的起点
     public static void main(String[] args){
+        //打印语句
         System.out.println("Hello World!");
     }
 }
